@@ -11,3 +11,6 @@ Additional features that can be added
 - [ ] Email and Password reset
 - [ ] Rich text/ wysiwyg editor 
 - [ ] Pagination
+
+
+[Blog Walkthrough](https://user-images.githubusercontent.com/75000839/126874443-682f6b49-8864-4644-acf4-6c091a61f6f7.mp4)
